@@ -15,3 +15,7 @@ pytest -q
 ```
 
 Monetary values are money — see `REVIEW.md` for the precision rules all changes must follow.
+
+## API
+- `GET /health`
+- `POST /invoices`
